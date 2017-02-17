@@ -1,0 +1,23 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+local.properties
+
+# Generated
+target/
+*.log
+
+# Java specific
+*.class
+*.jar
+*.war
+*.ear
+
+# Vim ignores
+*~
+.*.sw?
+Session.vim
+*.un~
+tags
